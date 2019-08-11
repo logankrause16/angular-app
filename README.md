@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# angular-app
-=======
+
+# Some Angular Idea
+
 # TourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
