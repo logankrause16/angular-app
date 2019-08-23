@@ -1,0 +1,19 @@
+.dTable {
+  display: table;
+}
+
+.dTableRow {
+  display: table-row;
+  background-color: #ddd;
+}
+
+.dTableHead {
+  display: table-cell;
+  background-color: darkslategray;
+}
+
+.dTableCell {
+  display: table-cell;
+  padding: 3px 10px;
+  border: 1px solid #999999;
+}
